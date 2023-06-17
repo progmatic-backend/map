@@ -67,6 +67,6 @@ A feladatod a következők:
 
 Hozz létre egy Person osztályt a megadott adattagokkal és egy konstruktorral, amely inicializálja ezeket az adattagokat.
 
-Hozz létre egy Registry osztályt, amelyben egy mapben tárolod a Person objektumokat. Implementáld a szükséges funkciókat: addPerson(), removePerson(), findPerson(), displayAll().
+Hozz létre egy Registry osztályt, amelyben egy mapben tárolod a Person objektumokat (kulcs: Person neve érték: Person objektum). Implementáld a szükséges funkciókat: addPerson(), removePerson(), findPerson(), displayAll().
 
 Írj egy főprogramot (main), ahol példányosítasz egy Registry objektumot és kipróbálod a különböző funkciókat. Például, hozzáadhatsz személyeket, eltávolíthatsz személyeket, keresel személyeket név alapján és kiírod az összes személyt a nyilvántartóból.
