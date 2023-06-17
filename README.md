@@ -47,7 +47,7 @@ public class HashMapExample {
 ```
 
 ***
-#Feladat
+# Feladat
 
 Írj egy programot, amely egy személyeket nyilvántartó rendszert valósít meg. Készíts két osztályt: egyet a személyek (Person) tárolására és egyet a nyilvántartó rendszer (Registry) kezelésére.
 
