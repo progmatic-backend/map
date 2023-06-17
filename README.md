@@ -45,3 +45,25 @@ public class HashMapExample {
     }
 }
 ```
+
+***
+#Feladat
+
+Írj egy programot, amely egy személyeket nyilvántartó rendszert valósít meg. Készíts két osztályt: egyet a személyek (Person) tárolására és egyet a nyilvántartó rendszer (Registry) kezelésére.
+
+A Person osztálynak a következő adatait kell tárolnia:
+
+- Név (name)
+- Kor (age)
+- Telefonszám (phone)
+A Registry osztálynak a következő funkciókat kell megvalósítania:
+
+- Személy hozzáadása a nyilvántartó rendszerhez
+- Személy eltávolítása a nyilvántartó rendszerből
+- Személy keresése a nyilvántartó rendszerben név alapján
+- Összes személy kiírása a nyilvántartó rendszerből
+A feladatod a következők:
+
+Hozz létre egy Person osztályt a megadott adattagokkal és egy konstruktorral, amely inicializálja ezeket az adattagokat.
+Hozz létre egy Registry osztályt, amelyben egy mapben tárolod a Person objektumokat. Implementáld a szükséges funkciókat: addPerson(), removePerson(), findPerson(), displayAll().
+Írj egy főprogramot (main), ahol példányosítasz egy Registry objektumot és kipróbálod a különböző funkciókat. Például, hozzáadhatsz személyeket, eltávolíthatsz személyeket, keresel személyeket név alapján és kiírod az összes személyt a nyilvántartóból.
