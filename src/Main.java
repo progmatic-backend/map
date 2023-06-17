@@ -11,6 +11,6 @@ public class Main {
         //szorgalmi
         // írj egy mapet ahol Integer kulcsokhoz Integer értékeket tárolsz
         // modelez 1000 kockadobást (1-6 random szám)
-        // a dobásokat tárold el a mapben 1 es dobás kulcs -> hányszorvolt
+        // a dobásokat tárold el a mapben 1 es dobás kulcs -> hányszor volt
     }
 }
