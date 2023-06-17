@@ -56,6 +56,7 @@ A Person osztálynak a következő adatait kell tárolnia:
 - Név (name)
 - Kor (age)
 - Telefonszám (phone)
+  
 A Registry osztálynak a következő funkciókat kell megvalósítania:
 
 - Személy hozzáadása a nyilvántartó rendszerhez
